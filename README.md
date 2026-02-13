@@ -15,7 +15,7 @@ Work for HPC and Big Data Analysis of my MSc in Bioinformatics
 
 ## 3. Model Interpretation
 - Feature Importance: ranking of variables.
-- Confusion Matrices
+- Confusion Matrices.
 
 # 🚀 Key Results
 - Clear separation of High Risk profiles.
