@@ -15,3 +15,7 @@ This project utilizes a Random Forest pipeline to classify athlete injury risk i
 - Clear separation of High risk/Injured profiles.
 - Identified top predictors of injuries.
 - Systemic recovery is a more critical predictor than biomechanical markers.
+
+
+### Specifications: 
+Python 3.13.5
